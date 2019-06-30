@@ -18,7 +18,6 @@ To see the Raspberry Pi GPIO pins details.
 
 ```bash
 gpio readall
-./build
 ```
 To install Qt5.
 
@@ -44,4 +43,4 @@ sudo apt-get install qtbase5-doc-html
 
 ## Acknowledgments
 
-*[Barbara Hohensee](https://www.udemy.com/introduction-to-cplusplus-and-qt5-programming-for-raspberry-pi/learn/lecture/6412938#overview) - for providing the Course on [Udemy](https://www.udemy.com/).
+* **[Barbara Hohensee](https://www.udemy.com/introduction-to-cplusplus-and-qt5-programming-for-raspberry-pi/learn/lecture/6412938#overview) - for providing the Course on [Udemy](https://www.udemy.com/).
